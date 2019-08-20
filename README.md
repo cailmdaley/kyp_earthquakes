@@ -17,4 +17,7 @@ For the dataset, go to: http://scedc.caltech.edu/research-tools/eewtesting.html
 3. Measure distance between earthquake and fault line
   - multiple methods for this. how do we define this distance?
   - do we need to worry about Earth's curvature?
-    
+4. Describe spatial and temporal correlations between earthquakes
+  - along fault line distance? linear distance?
+  - fit covariance functions? theoretically motivated?
+  - look into geostatistical methods?
